@@ -9,9 +9,9 @@
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://4thehalibit.github.io/Westbergs-Cookbook/blog/feed.xml" />
     <item>
-      <title>Hvordan bidra</title>
+      <title>How to Contribute</title>
       <guid isPermaLink="true">https://4thehalibit.github.io/Westbergs-Cookbook/blog/2022-5-24-hvordan-bidra/</guid>
-      <description>Om du ønsker å legge inn en oppskrift selv for så å lage en pull request, kan du gjøre det ved å følge disse stegene.</description>
+      <description>If you want to add a recipe yourself and then create a pull request, you can do so by following these steps.</description>
       <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
