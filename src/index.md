@@ -1,22 +1,61 @@
----
-description: "Dolby mat til alle"
-icon: ":hocho:"
----
+# Collection of Recipes
 
-# Om Mere?
+Welcome to the repository of our favorite recipes!
+
+![](/static/recipes/cover_2.jpg)
+
+!!! info
+If you're looking for something in particular, use the search box at the top right. And if you can't find it, [!badge size="s" corners="pill"
+variant="light" iconAlign="right" icon="paper-airplane" text="suggest it"](https://github.com/4thehalibit/Westbergs-Cookbook/issues/new?assignees=4thehalibit&labels=new+recipe&projects=&template=recipe-request.md&title=%5BNEW+RECIPE+SUBMISSION%5D)!
+!!!
 
 !!! success
-Om du mangler litt inspirasjon til hva du skal lage til middag, ta en titt i [!badge
-corners="pill" size="s" variant="light" text="Kategorier"](./categories) eller [!badge
-corners="pill" size="s" variant="light" text="Emner"](./tags)!
+If you're looking for inspiration on what to make, check out [!badge
+corners="pill" size="s" variant="light" text="Contributors"](./categories) or [!badge
+corners="pill" size="s" variant="light" text="Tags"](./tags).
 !!!
 
-!!! warning
-Hvis du er på jakt etter noe spesielt, sjekk om jeg har lagt den inn ved å bruke
-søkefeltet øverst til høyre. Og om du ikke finner den, [!badge size="s" corners="pill"
-variant="light" iconAlign="right" icon="paper-airplane" text="foreslå den til meg"](https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
-!!!
 
-Eventuelt kan du anmode om at en ny oppskrift legges til via et gaflet repository:
+##  Favorites
++++ All
 
-[!ref icon=":rocket:" text="Hvordan bidra"](/blog/2022-5-24-hvordan-bidra.md)
+- [Tiramisu-Overnight-Oats](./breakfast/tiramisu-oats.md)
+ 
+
++++ Thanksgiving
+
+
+#### Classics
+ 
+
+#### New Favorites
+
+
+
++++ Christmas
+
+#### Classics
+- [7-layer dip](./appetizers-&-snacks/7-layer-dip.md)
+
+
+#### New Favorites
+
+
++++ Easter
+
+
+#### Classics
+ 
+
+
+#### New Favorites
+
+
++++
+
+<!---
+Useful design info:
+- https://retype.com/components/alert/#variants
+- https://retype.com/components/badge/#variants
+- https://retype.com/components/reference-link/
+--->

@@ -1,57 +1,45 @@
 ---
 name: Recipe request
 about: Suggest a new recipe for this cookbook
-title: "[RECIPE]"
-labels: recipe
-assignees: ''
+title: "[NEW RECIPE SUBMISSION]"
+labels: new recipe
+assignees: 4thehalibit
 
 ---
 
-**Is your recipe related to a category/tag/menu section? Please describe.**
-A clear and concise description of what type of recipe it is is. Ex. This pasta dish is nice to this occasion [...]
-
-**Describe the recipe you'd like**
-A recipe that is as close to a proper one as possible:
+**Direct link to the recipe you would like added no Pinterest or video links:**
+**Link:**
 
 ```text
 ---
 description: "This will show up in the preview in the tags and categories menus"
-tag:
- - pasta
- - pizza
- - quick
- - easy
-category:
- - dinner
- - vegetarian
- - dessert
+
+tag: (ex. pasta, pizza, quick, easy)
+
+category: (ex. dinner, vegetarian, dessert)
 authors:
-  - name: "The Author"
-    link: "http://example.com/"
-    avatar: ":cook:"
+  - name: "Your Name"
 ---
 
-# Title
-
-![](https://via.placeholder.com/1280x480)
-
-||| :timer_clock: Tid
-65 min
-||| :knife_fork_plate: Porsjoner
-2
-||| :cook: Vanskelighetsgrad
-Medium
-|||
-
-## Ingredienser
+## Ingredients
 
 - 2 ts pepper
-- ...
+-
+-  ......
 
-## Steg
+## Steps
 
-1. Først ...
+1. First
+2. Second  ......
+
+
+
+
 ```
 
 **Additional context**
 Add any other context or screenshots about the recipe request here.
+
+---- DON'T USE -----
+# Title 
+![COMMENT](https://via.placeholder.com/1280x480)

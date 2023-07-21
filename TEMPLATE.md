@@ -1,32 +1,42 @@
 ---
-description: "I will show up in the preview in the tags and categories menus"
-tag:
- - ingredient
-category:
- - type
+label: Recipe Name
+tags: []
+categories: [Submitter Name]
 authors:
-  - name: "The Author"
-    link: "http://example.com/"
-    avatar: ":cook:"
+  - name: Submitter Name
+    link: /categories/submitter-name
+route: /section/recipe-name.md
 ---
 
-# Title
 
-![](https://via.placeholder.com/1280x480)
+# Recipe Name
+![](/static/banners/image.jpeg)
 
-||| :timer_clock: Tid
-65 min
-||| :knife_fork_plate: Porsjoner
-2
-||| :cook: Vanskelighetsgrad
-Medium
+||| :timer_clock: Prep Time
+ 
+||| :timer_clock: Total Time
+
+||| :knife_fork_plate: Serves
+
+||| :cook: Difficulty Level
+
 |||
 
-## Ingredienser
+## Ingrediants
 
-- 2 ts pepper
-- ...
 
-## Steg
+## Steps
 
-1. Først ...
+
+<!--- Different Styles of Resources for Bottom of Recipe
+## Resources 
+[!ref target="blank" text="Recipe"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
+[!ref target="blank" text="Archive"](https://archive.is/xONP1)
+
+## Resources
+==- Recipe (front)
+![](/static/recipes/butter-pecan-cake-front.jpg)
+==- Recipe (back)
+![](/static/recipes/butter-pecan-cake-back.jpg)
+
+-->

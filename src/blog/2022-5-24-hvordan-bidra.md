@@ -1,30 +1,22 @@
-# Hvordan bidra
+# How to Contribute
 
-Om du ønsker å legge inn en oppskrift selv for så å lage en pull request, kan du gjøre
-det ved å følge disse stegene.
+If you want to add a recipe yourself and then create a pull request, you can do so by following these steps.
 
 ## Fork
 
-Lag en [fork](https://github.com/engeir/simple-recipes-cookbook/fork) av repositoriet.
+Create a [fork](https://github.com/engeir/simple-recipes-cookbook/fork) of the repository.
 
-## Ny oppskrift
+## New Recipe
 
-En ny oppskrift kan legges til ved å opprette en ny fil i en eksisterende eller en ny
-mappe.
+A new recipe can be added by creating a new file in an existing or new folder.
 
-Nye filer _må_ ha filendelsen `.md`, og filnavnet må være uten mellomrom (bruk heller
-bindestrek, `-`) og kun med små bokstaver, også kjent som [kebab
-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case).
+New files _must_ have the file extension `.md`, and the filename must be without spaces (use hyphens, `-`) and only in lowercase, also known as [kebab case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case).
 
-La oss si at du ønsker å legge til en bolleoppskrift. Da oppretter du en ny fil i mappen
-`bakst` og kaller den for eksempel `ferske-boller.md`. Kopier innholdet i
-[TEMPLATE.md](https://github.com/engeir/simple-recipes-cookbook/blob/main/TEMPLATE.md?plain=1) inn i
-`ferske-boller.md`, og rediger etter eget ønske.
+Let's say you want to add a recipe for buns. You would create a new file in the `baking` folder and name it something like `fresh-buns.md`. Copy the content from [TEMPLATE.md](https://github.com/engeir/simple-recipes-cookbook/blob/main/TEMPLATE.md?plain=1) into `fresh-buns.md` and edit it according to your preferences.
 
-Filstrukturen du ønsker å legge til filer i ser omlag slik ut, før og etter:
+The file structure you want to add files to will look something like this, before and after:
 
-||| Før
-
+|||Before
 ```text
 .
 ├── IMAGE.md
@@ -47,9 +39,7 @@ Filstrukturen du ønsker å legge til filer i ser omlag slik ut, før og etter:
     └── static
         └── pasta-a-la-vodka.webp
 ```
-
-||| Etter
-
+|||After
 ```text
 .
 ├── IMAGE.md
@@ -73,9 +63,4 @@ Filstrukturen du ønsker å legge til filer i ser omlag slik ut, før og etter:
     └── static
         └── pasta-a-la-vodka.webp
 ```
-
 |||
-
-## Åpne PR
-
-Nå kan åpne en pull request (PR) mot min gren "main".
