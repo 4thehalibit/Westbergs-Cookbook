@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://4thehalibit.github.io/Westbergs-Cookbook/sitemap.xml.gz
+Sitemap: https://cookbook.eirik.re/sitemap.xml.gz

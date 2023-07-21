@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
-    <link>https://4thehalibit.github.io/Westbergs-Cookbook/blog/</link>
-    <description>Blog</description>
-    <copyright>Copyleft 2023. All rights reSERVED. Fork me on GitHub</copyright>
+    <title>Blogg</title>
+    <link>https://cookbook.eirik.re/blog/</link>
+    <description>Blogg</description>
+    <copyright>Copyleft 2023. All rights reversed. Fork me on GitHub</copyright>
     <lastBuildDate>Tue, 24 May 2022 00:00:00 GMT</lastBuildDate>
     <generator>https://retype.com</generator>
-    <atom:link rel="self" type="application/rss+xml" href="https://4thehalibit.github.io/Westbergs-Cookbook/blog/feed.xml" />
-    <image>
-      <title>Blog</title>
-      <link>https://4thehalibit.github.io/Westbergs-Cookbook/blog/</link>
-      <url>https://4thehalibit.github.io/Westbergs-Cookbook/favicon.png</url>
-    </image>
+    <atom:link rel="self" type="application/rss+xml" href="https://cookbook.eirik.re/blog/feed.xml" />
     <item>
-      <title>How to Contribute</title>
-      <guid isPermaLink="true">https://4thehalibit.github.io/Westbergs-Cookbook/blog/2022-5-24-hvordan-bidra/</guid>
-      <description>If you want to add a recipe yourself and then create a pull request, you can do so by following these steps.</description>
+      <title>Hvordan bidra</title>
+      <guid isPermaLink="true">https://cookbook.eirik.re/blog/2022-5-24-hvordan-bidra/</guid>
+      <description>Om du ønsker å legge inn en oppskrift selv for så å lage en pull request, kan du gjøre det ved å følge disse stegene.</description>
       <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
