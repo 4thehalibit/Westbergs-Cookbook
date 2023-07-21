@@ -12,6 +12,9 @@ To get your own online cookbook set up:
 2. Change the links set up in [retype.yml](./retype.yml)
    - This means that you change `engeir` to your own GitHub username. (Note that you can
      change everything else as well, but these two must be updated.)
+   - You can for example change the language with the `locale` variable. For a list of
+     all supported languages, see
+     [supported languages](https://retype.com/configuration/project/#supported-languages).
 3. Remove the CNAME file in the `retype` branch.
 4. Set up workflows to be run in the forked repository.
    - Workflows are not run by default in repositories that are forked, but this can be
@@ -30,6 +33,7 @@ You can find the generated repo
 at
 [https://flottflyt.github.io/simple-recipes-cookbook](https://flottflyt.github.io/simple-recipes-cookbook).
 
+
 https://user-images.githubusercontent.com/38856990/167300712-b58bd13e-8d7c-4070-b210-4c6ace324b25.mov
 
 ## Editing and adding new recipes
@@ -42,28 +46,27 @@ useful to be able to verify that your changes work before you push the changes t
 GitHub.
 
 To do this you first clone the project, move into it and then run the retype CLI (visit
-their website for instructions on how to [install the retype
-CLI](https://retype.com/guides/getting-started/#install)):
+their website for instructions on how to
+[install the retype CLI](https://retype.com/guides/getting-started/#install)):
 
 ```bash
 # Use the URL of your fork:
 git clone https://github.com/engeir/simple-recipes-cookbook
 cd simple-recipes-cookbook
-# Installing retype and nom CLI with npm should be as simple as
-
-# sudo apt-get install npm; and npm install retypeapp --global
-
-# To start retype
+# Installing retype CLI with npm should be as simple as
+# npm install retypeapp --global
 retype start
+# retype versions prior to v3.0 used the command `retype watch`
 ```
 
-If you now start chaining files while the `retype start` command is running, the locally
-hosted website will automatically update. this will allow you to see changes with out having to push them so often
+If you now start changing files while the `retype start` command is running, the locally
+hosted website will automatically update.
 
 ## Note
 
 The deployed website found in this repository is what I'm using for my own recipes, and
 its contents (contents of [src](./src) that is) will change. For fewer and more diverse
 examples of what is possible with [retype](https://retype.com/), visit their
-[website](https://retype.com/) and have a look at my [example
-repository](https://github.com/flottflyt/simple-recipes-cookbook).
+[website](https://retype.com/) and have a look at my
+[example repository](https://github.com/flottflyt/simple-recipes-cookbook).
+
