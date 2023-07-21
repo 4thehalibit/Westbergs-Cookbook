@@ -1,8 +1,5 @@
 # Collection of Recipes
-
-Welcome to the repository of our favorite recipes!
-
-![](/static/recipes/cover_2.jpg)
+![### Welcome to the repository of our favorite recipes! ###](/static/recipes/cover_2.jpg)
 
 !!! info
 If you're looking for something in particular, use the search box at the top right. And if you can't find it, [!badge size="s" corners="pill"
