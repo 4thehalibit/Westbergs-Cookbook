@@ -3,7 +3,7 @@
 
 !!! info
 If you're looking for something in particular, use the search box at the top right. And if you can't find it, [!badge size="s" corners="pill"
-variant="light" iconAlign="right" icon="paper-airplane" text="suggest it"](https://github.com/4thehalibit/Westbergs-Cookbook/issues/new?assignees=4thehalibit&labels=new+recipe&projects=&template=recipe-request.md&title=%5BNEW+RECIPE+SUBMISSION%5D)!
+variant="light" iconAlign="right" icon="paper-airplane" text="suggest it"](https://github.com/4thehalibit/Westbergs-Cookbook/issues/new?assignees=4thehalibit&labels=new+recipe&projects=&template=recipe-request.md&title=%5BNEW+RECIPE+SUBMISSION%5D)
 !!!
 
 !!! success
