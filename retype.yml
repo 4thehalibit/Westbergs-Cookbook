@@ -6,7 +6,7 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Cookbook
+  title: Bon Appétit
 meta:
   title: " | Dolby food for everyone"
 links:
