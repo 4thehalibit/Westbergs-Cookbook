@@ -1,4 +1,4 @@
-# Simple Recipes Cookbook
+# Simple GitHub Cookbook
 
 > _Create your own online cookbook with minimal effort_
 
