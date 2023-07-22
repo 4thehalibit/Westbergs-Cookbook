@@ -12,6 +12,7 @@ route: /appetizers-snacks/homemade-mozzarella-sticks.md
 # Homemade Mozzarella Sticks
 ![](/src/static/banners/mzstick.jpeg)
 
+
 ||| :timer_clock: Prep Time
 25 min
 ||| :timer_clock: Total Time

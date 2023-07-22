@@ -1,12 +1,18 @@
----
-label: Apple crumble
-tags: []
-categories: [Ben Fulton]
+—
+label: Apple Crumble
+tags:
+- cake
+- apple
+categories:
+- desert
+- cake
+- holly westberg
 authors:
-  - name: Ben Fulton
-    link: /categories/ben-fulton
-route: /desserts-sweets/apple-crumble
----
+  - name: Holly Westberg
+  - link: /categories/holly-westberg
+    avatar: “:cook:”
+route: src/desserts-sweets/apple-crumble.md
+—
 
 # Apple Crumble
 ![Sweet & nutty apple crumble.](/static/banners/apple-crumble.jpeg)

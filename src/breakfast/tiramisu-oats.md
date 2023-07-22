@@ -6,7 +6,8 @@ tags:
 - favorite
 categories:
 - desert
-- breakfast 
+- breakfast
+- holly westberg
 authors:
   - name: Holly Westberg
     avatar: ":cook:"

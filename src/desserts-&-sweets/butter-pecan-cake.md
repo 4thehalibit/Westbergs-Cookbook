@@ -6,8 +6,10 @@ tags:
 categories:
 - desert
 - cake
+- holly westberg 
 authors:
   - name: Holly Westberg
+  - link: /categories/holly-westberg
     avatar: ":cook:"
 route: src/desserts-sweets/butter-pecan-cake.md
 ---
