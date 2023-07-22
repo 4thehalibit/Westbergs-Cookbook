@@ -1,7 +1,7 @@
 ---
 label: Tiramisu Oats
 tags:
--oats
+- oats
 - breakfast
 - favorite
 categories:
