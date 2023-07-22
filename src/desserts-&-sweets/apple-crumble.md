@@ -1,4 +1,4 @@
-—
+---
 label: Apple Crumble
 tags:
 - crumble
@@ -12,7 +12,7 @@ authors:
   - link: /categories/holly-westberg
     avatar: “:cook:”
 route: src/desserts-sweets/apple-crumble.md
-—
+---
 
 # Apple Crumble
 ![Sweet & nutty apple crumble.](/static/banners/apple-crumble.jpeg)
