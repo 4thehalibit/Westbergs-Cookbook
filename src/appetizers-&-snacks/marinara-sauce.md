@@ -5,7 +5,7 @@ categories: [Vincent Westberg]
 authors:
   - name: Vincent Westberg
     link: /categories/vincent-westberg
-route: /appetizers-&-snacks/marinara-sauce.md
+route: /appetizers-snacks/marinara-sauce.md
 ---
 
 

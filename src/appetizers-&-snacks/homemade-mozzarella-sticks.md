@@ -5,7 +5,7 @@ categories: [Vincent Westberg]
 authors:
   - name: Vincent Westberg 
     link: /categories/vincent-westberg
-route: /appetizers-&-snacks/homemade-mozzarella-sticks.md
+route: /appetizers-snacks/homemade-mozzarella-sticks.md
 ---
 
 
