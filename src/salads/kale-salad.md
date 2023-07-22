@@ -1,11 +1,17 @@
 ---
-label: Kale salad
-tags: [thanksgiving]
-categories: [Emilie Huffman]
+label: Tiramisu Oats
+tags:
+- salad
+- kale
+- holly westberg
+categories:
+- salad
+- thanksgiving 
 authors:
-  - name: Emilie Huffman
-    link: /categories/emilie-huffman
----
+  - name: Holly Westberg
+    avatar: “:cook:”
+route: /salads/kale-salad.md
+—--
 
 # Kale Salad
 ![Decadent but healthy; you'll be left wanting more.](/static/banners/kale-salad.jpg)
