@@ -9,7 +9,6 @@ categories:
 - breakfast 
 authors:
   - name: Holly Westberg
-    link: /categories/holly-westberg
     avatar: ":cook:"
 route: /breakfast/tiramisu-oats.md
 ---
