@@ -1,12 +1,18 @@
 ---
-label: Butter pecan cake
-tags: [fulton-classics, cake]
-categories: [Betsy Fulton]
+label: Butter Pecan Cake
+tags:
+- cake
+- favorite
+categories:
+- desert
+- cake
 authors:
-  - name: Betsy Fulton
-    link: /categories/betsy-fulton
-route: /desserts-sweets/butter-pecan-cake
+  - name: Holly Westberg
+    avatar: ":cook:"
+route: /breakfast/butter-pecan-cake.md
 ---
+
+
 
 # Butter Pecan Cake
 ![Also called baby shower cake by the Fulton family. Sweet, buttery, and nutty.](/static/banners/butter-pecan-cake.jpg)
