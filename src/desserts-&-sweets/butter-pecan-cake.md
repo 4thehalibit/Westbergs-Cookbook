@@ -9,7 +9,7 @@ categories:
 authors:
   - name: Holly Westberg
     avatar: ":cook:"
-route: /breakfast/butter-pecan-cake.md
+route: src/desserts-sweets/butter-pecan-cake.md
 ---
 
 
