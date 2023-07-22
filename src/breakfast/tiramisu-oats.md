@@ -1,10 +1,16 @@
 ---
 label: Tiramisu Oats
-tags: [overnight, oats, breakfast, favorite]
-categories: [Holly Westberg]
+tags:
+-oats
+- breakfast
+- favorite
+categories:
+- desert
+- breakfast 
 authors:
   - name: Holly Westberg
     link: /categories/holly-westberg
+    avatar: ":cook:"
 route: /breakfast/tiramisu-oats.md
 ---
 
