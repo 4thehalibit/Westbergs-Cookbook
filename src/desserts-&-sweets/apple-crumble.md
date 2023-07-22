@@ -9,8 +9,8 @@ categories:
 - crumble
 authors:
   - name: Holly Westberg
+    link: /tags/holly-westberg
     avatar: ":cook:"
-  - link: /tags/holly-westberg
 route: src/desserts-sweets/apple-crumble.md
 ---
 
