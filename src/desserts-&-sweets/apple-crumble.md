@@ -1,12 +1,12 @@
 —
 label: Apple Crumble
 tags:
-- cake
-- apple
+- crumble
+- favorite
+- holly westberg
 categories:
 - desert
-- cake
-- holly westberg
+- crumble
 authors:
   - name: Holly Westberg
   - link: /categories/holly-westberg
