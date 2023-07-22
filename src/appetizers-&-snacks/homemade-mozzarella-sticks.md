@@ -33,7 +33,7 @@ easy
 - ½ cup (63 g) all-purpose flour
 - 1 lb whole milk mozzarella block or 15 - whole milk string cheese
 - Vegetable oil for frying
-- [Marinara Sauce](/src/appetizers-&-snacks/marinara-sauce.md)  
+- [Marinara Sauce](https://4thehalibit.github.io/Westbergs-Cookbook/appetizers-snacks/marinara-sauce.md/)
 
 ## Steps
 
