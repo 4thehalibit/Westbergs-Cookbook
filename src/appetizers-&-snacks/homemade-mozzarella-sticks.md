@@ -4,7 +4,7 @@ tags: [snacks, cheese]
 categories: [Vincent Westberg]
 authors:
   - name: Vincent Westberg 
-    link: /categories/Vincent-Westberg
+    link: /categories/vincent-westberg
 route: /src/appetizers-&-snacks/homemade-mozzarella-sticks.md
 ---
 
