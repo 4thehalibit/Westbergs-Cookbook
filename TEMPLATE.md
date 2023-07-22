@@ -1,10 +1,7 @@
 ---
 label: Recipe Name
 tags:
-<!---
-      include submitter
--->
-- 
+- submitter
 - 
 - 
 categories:
