@@ -1,16 +1,22 @@
 ---
 label: Recipe Name
-tags: []
-categories: [Submitter Name]
+tags:
+# include submitter
+- 
+- 
+- 
+categories:
+- 
+- 
 authors:
-  - name: Submitter Name
-    link: /categories/submitter-name
-route: /section/recipe-name.md
+  - name: First Last
+    link: /tags/first-last
+    avatar: ":cook:"
+route: relative path
 ---
 
-
 # Recipe Name
-![](/static/banners/image.jpeg)
+![](/static/banners/.jpg)
 
 ||| :timer_clock: Prep Time
  
@@ -22,18 +28,28 @@ route: /section/recipe-name.md
 
 |||
 
-## Ingrediants
+## Ingredients
 
 
-## Steps
+
+## Instructions
 
 
-<!--- Different Styles of Resources for Bottom of Recipe
+
+
+
+
+
+
+
+<!--- Different Styles of Resources for the bottom of the page
+
 ## Resources 
 [!ref target="blank" text="Recipe"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
 [!ref target="blank" text="Archive"](https://archive.is/xONP1)
 
-## Resources
+## Picture of recipe card stored on GitHub
+
 ==- Recipe (front)
 ![](/static/recipes/butter-pecan-cake-front.jpg)
 ==- Recipe (back)
