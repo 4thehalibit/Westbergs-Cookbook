@@ -32,7 +32,7 @@ route: /main-dishes/baked-gnochi-alla-vodka.md
 - 1/4 cup grated parmesan
  ...
 
-## Steg
+## Steps
 
 1. Cook gnocchi according to box directions and set aside
 2. To make the sauce, start by adding your crushed tomatoes, vodka, salt and pepper to a medium saucepan on medium-high heat. Bring the mixture to a boil, then lower the heat to medium.
