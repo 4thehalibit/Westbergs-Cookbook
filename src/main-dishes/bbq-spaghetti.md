@@ -30,26 +30,24 @@ medium
 |||
 
 ## Ingrediants
-1 tablespoon olive oil
-1 small green bell pepper, chopped
-1/2 yellow onion, finely chopped
-1 tablespoon garlic salt
-3 1/2 cups Neely's BBQ sauce, recipe follows
-1 pound pork, beef, or chicken, cooked and chopped into bite-size pieces
-1 pound spaghetti
-
-### [!ref target="blank" text="Neely's BBQ Sauce "](https://www.foodnetwork.com/recipes/bbq-spaghetti-recipe-1937436)
-
-2 cups ketchup
-1 cup water
-1/2 cup apple cider vinegar
-5 tablespoons light brown sugar
-5 tablespoons sugar
-1/2 tablespoon fresh ground black pepper
-1/2 tablespoon onion powder
-1/2 tablespoon ground mustard
-1 tablespoon lemon juice
-1 tablespoon Worcestershire sauce
+- 1 tablespoon olive oil
+- 1 small green bell pepper, chopped
+- 1/2 yellow onion, finely chopped
+- 1 tablespoon garlic salt
+- 3 1/2 cups Neely's BBQ sauce, recipe follows
+- 1 pound pork, beef, or chicken, cooked and chopped into bite-size pieces
+- 1 pound spaghetti
+### Neely’s BBQ Sauce
+- 2 cups ketchup
+- 1 cup water
+- 1/2 cup apple cider vinegar
+- 5 tablespoons light brown sugar
+- 5 tablespoons sugar
+- 1/2 tablespoon fresh ground black pepper
+- 1/2 tablespoon onion powder
+- 1/2 tablespoon ground mustard
+- 1 tablespoon lemon juice
+- 1 tablespoon Worcestershire sauce
 
 
 ## Steps
@@ -57,15 +55,12 @@ medium
 
 2.  Meanwhile, fill a large pot with water and bring to boil. Season liberally with salt and add spaghetti. Cook until al dente (firm but not hard), about 7 minutes, and drain. Toss spaghetti with sauce. 
 
-## [!ref target="blank" text="Neely's BBQ Sauce "](https://www.foodnetwork.com/recipes/bbq-spaghetti-recipe-1937436)
-Yields: 3 1/2 cups
-3. 
-In a medium saucepan, combine all ingredients. Bring mixture to a boil, reduce heat to simmer.Cooked uncovered, stirring frequently, for 1 hour 15 minutes.
+### Neely’s BBQ Sauce 
+(Yields: 3 1/2 cups)
+1. In a medium saucepan, combine all ingredients. Bring mixture to a boil, reduce heat to simmer.Cooked uncovered, stirring frequently, for 1 hour 15 minutes.
 
 
-
-
-
+!ref target="blank" text="Neely’s Recipe"]([https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/](https://www.foodnetwork.com/recipes/bbq-spaghetti-recipe-1937436))
 
 <!--- Different Styles of Resources for the bottom of the page
 
