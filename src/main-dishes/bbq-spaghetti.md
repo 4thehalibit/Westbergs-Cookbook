@@ -60,7 +60,7 @@ medium
 1. In a medium saucepan, combine all ingredients. Bring mixture to a boil, reduce heat to simmer.Cooked uncovered, stirring frequently, for 1 hour 15 minutes.
 
 
-!ref target="blank" text="Neely’s Recipe"]([https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/](https://www.foodnetwork.com/recipes/bbq-spaghetti-recipe-1937436))
+[!ref target="blank" text="Neely’s Recipe"]([https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/](https://www.foodnetwork.com/recipes/bbq-spaghetti-recipe-1937436))
 
 <!--- Different Styles of Resources for the bottom of the page
 
