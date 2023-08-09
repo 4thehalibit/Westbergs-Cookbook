@@ -23,7 +23,7 @@ easy
 |||
 
 ## Ingrediants
-- 28 ⅕ oz cherry tomatoes
+- 28 ⅕ oz canned cherry tomatoes
 - 2 cups vegetable stock
 - 14 oz cannellini beans
 - 4 Italian sausages
