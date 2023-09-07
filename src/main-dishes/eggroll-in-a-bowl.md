@@ -3,11 +3,11 @@ label: Eggroll in a Bowl
 tags:
 - Vincent Westberg
 - Asian
-- 
+- keto
 categories:
 - Asian
 - Keto
-- 
+- Bowl
 authors:
   - name: Vincent Westberg
     link: /tags/vincent-westberg
